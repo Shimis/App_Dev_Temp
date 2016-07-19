@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StringsTable</key>
+	<string>Root</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Фиды картинок</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>SearchTags</string>
+			<key>Key</key>
+			<string>PhotoURLString</string>
+			<key>DefaultValue</key>
+			<string>http://ha-index.ix.km:8888/mod/kmsweb/q?collections=images_nodef&amp;ofmt=json&amp;psz=20&amp;q=%D0%BF%D1%83%D1%82%D0%B8%D0%BD%20%D1%83%D0%BB%D1%8B%D0%B1%D0%B0%D0%B5%D1%82%D1%81%D1%8F</string>
+			<key>Titles</key>
+			<array>
+				<string>Cats</string>
+				<string>Moscow</string>
+				<string>Dogs</string>
+				<string>Paris</string>
+			</array>
+			<key>Values</key>
+			<array>
+				<string>http://ha-index.ix.km:8888/mod/kmsweb/q?collections=images_nodef&amp;ofmt=json&amp;psz=20&amp;q=%D0%BA%D0%BE%D1%88%D0%BA%D0%B8</string>
+				<string>http://ha-index.ix.km:8888/mod/kmsweb/q?collections=images_nodef&amp;ofmt=json&amp;psz=20&amp;q=%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0</string>
+				<string>http://ha-index.ix.km:8888/mod/kmsweb/q?collections=images_nodef&amp;ofmt=json&amp;psz=20&amp;q=%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8</string>
+				<string>http://ha-index.ix.km:8888/mod/kmsweb/q?collections=images_nodef&amp;ofmt=json&amp;psz=20&amp;q=%D0%BF%D0%B0%D1%80%D0%B8%D0%B6</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
