@@ -17,6 +17,7 @@
 		4AEB154E1C404E190047EDF7 /* ImageFeedItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEB154D1C404E190047EDF7 /* ImageFeedItemTableViewCell.swift */; };
 		4AEB15501C404E290047EDF7 /* Feed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEB154F1C404E290047EDF7 /* Feed.swift */; };
 		4AEB15521C404E330047EDF7 /* FeedItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEB15511C404E330047EDF7 /* FeedItem.swift */; };
+		9A00FCDD1D3E57E5006E4AE1 /* photos_public.gne.js in Resources */ = {isa = PBXBuildFile; fileRef = 9A00FCDC1D3E57E5006E4AE1 /* photos_public.gne.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		4AEB154D1C404E190047EDF7 /* ImageFeedItemTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageFeedItemTableViewCell.swift; sourceTree = "<group>"; };
 		4AEB154F1C404E290047EDF7 /* Feed.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Feed.swift; sourceTree = "<group>"; };
 		4AEB15511C404E330047EDF7 /* FeedItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedItem.swift; sourceTree = "<group>"; };
+		9A00FCDC1D3E57E5006E4AE1 /* photos_public.gne.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = photos_public.gne.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				4AEB153E1C3F125F0047EDF7 /* Assets.xcassets */,
 				4AEB15401C3F125F0047EDF7 /* LaunchScreen.storyboard */,
 				4AEB15431C3F125F0047EDF7 /* Info.plist */,
+				9A00FCDC1D3E57E5006E4AE1 /* photos_public.gne.js */,
 				4AEB15491C4019E80047EDF7 /* Settings.bundle */,
 			);
 			path = PhotoFeed;
@@ -141,6 +144,7 @@
 				4AEB15421C3F125F0047EDF7 /* LaunchScreen.storyboard in Resources */,
 				4AEB153F1C3F125F0047EDF7 /* Assets.xcassets in Resources */,
 				4AEB153D1C3F125F0047EDF7 /* Main.storyboard in Resources */,
+				9A00FCDD1D3E57E5006E4AE1 /* photos_public.gne.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +310,7 @@
 				4AEB15481C3F125F0047EDF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

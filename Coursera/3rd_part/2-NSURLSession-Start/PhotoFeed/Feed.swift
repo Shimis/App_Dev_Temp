@@ -28,4 +28,9 @@ class Feed {
         self.sourceURL = newURL
     }
     
+     convenience init?
+    
+    
+
+    
 }
